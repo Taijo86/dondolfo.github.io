@@ -1,2 +1,2 @@
 # taijo.github.io
-My first blog
+https://taijo86.github.io/taijo.github.io/index.html
